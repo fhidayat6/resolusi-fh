@@ -6,3 +6,5 @@ RENCANA BELAJAR FH
   * DataStage di SiMoDIS
   * Convert ke Pentaho
 - Belajar SQL
+ * Belajar SQL Server Advance
+ * Belajar SQL Stored Procedure
