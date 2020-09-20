@@ -8,4 +8,7 @@ RENCANA BELAJAR FH
   * Convert ke Pentaho
 - Belajar Javascript
  * Framework JS
-  ^ Angular
+  ^ Vue.JS
+- Belajar SQL
+ * Belajar SQL Server Advance
+ * Belajar SQL Stored Procedure
