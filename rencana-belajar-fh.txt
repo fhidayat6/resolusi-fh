@@ -5,4 +5,9 @@ RENCANA BELAJAR FH
 - Belajar ETL
   * DataStage di SiMoDIS
   * Convert ke Pentaho
+- Belajar Javascript
+ * Framework JS
+  ^ Vue.JS
 - Belajar SQL
+ * Belajar SQL Server Advance
+ * Belajar SQL Stored Procedure
