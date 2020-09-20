@@ -3,3 +3,5 @@ Resolusi
 - Menguasai data scientist dengan python
 - menguasai ETL dengan spark, datastage dan pentaho
 - menguasai web development dengan php js framwork
+- Konsisten membuat program data science dengan python
+- Konsisten latihan ETL
