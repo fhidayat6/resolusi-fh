@@ -5,3 +5,4 @@ RENCANA BELAJAR FH
 - Belajar ETL
   * DataStage di SiMoDIS
   * Convert ke Pentaho
+- Belajar SQL
