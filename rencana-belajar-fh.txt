@@ -2,7 +2,10 @@ RENCANA BELAJAR FH
 - Belajar Data Cleansing dengan Python
 - Belajar Data visualization denga Python
 - Belajar machine learning dengan python
+ * Belajar Tensorflow
 - Belajar ETL
   * DataStage di SiMoDIS
   * Convert ke Pentaho
-- Belajar SQL
+- Belajar Javascript
+ * Framework JS
+  ^ Angular
