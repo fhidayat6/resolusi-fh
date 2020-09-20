@@ -1,0 +1,5 @@
+Resolusi
+- Konsisten untuk belajar IT
+- Menguasai data scientist dengan python
+- menguasai ETL dengan spark, datastage dan pentaho
+- menguasai web development dengan php js framwork
